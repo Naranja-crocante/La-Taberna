@@ -159,9 +159,17 @@ h2{
 
 footer {
     text-align: center;
+<<<<<<< HEAD
     padding: 0;
+=======
+    padding: 10px 0;
+>>>>>>> bd4806ae55dd07d7f6c870157a3ec5914d5cdbdc
     background-color: #be8143;
     color: #ffffff;
     font-family: 'Heavitas', sans-serif;
     font-size: 16px;
+<<<<<<< HEAD
 }   
+=======
+}   
+>>>>>>> bd4806ae55dd07d7f6c870157a3ec5914d5cdbdc
